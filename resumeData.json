@@ -1,0 +1,121 @@
+{
+  "main": {
+    "name": "Muhammad Kausar",
+    "occupation": "React Developer && Lhokseumawe Polytechnic Student",
+    "description": "Full Stack React Developer, Freelancer && a hardworking and eager-to-learn personality",
+    "image": "IG_Kausar.jpeg",
+    "bio": "My name is Kausar, I'm a Full Stack ReactJS Developer.",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "muhammadkausar01@gmail.com",
+    "phone": "+62 853-1615-0550",
+    "address": {
+      "street": "Kuta Blang, Kabupaten Bireuen, Aceh",
+      "city": "Aceh",
+      "state": "Indonesia",
+      "zip": "24356"
+    },
+    "blogspot": "https://mrtechnesia.blogspot.com/",
+    "resumedownload": "#",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/muhammad.kausar.528/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/mkausar01",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/muhammad_kausar/?hl=id",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/kausarm",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "SKILLS",
+    "education": [
+      {
+        "school": "Politeknik Lhokseumawe",
+        "degree": "Bachelor in Computer Science",
+        "graduated": "2023",
+        "description": "Ongoing"
+      }
+    ],
+    "work": [
+      {
+        "company": "mr.technesia",
+        "title": "Team Member && React Specialist",
+        "years": "April 2020 - Present",
+        "description": "React Developer."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Airlines",
+        "category": "Airlines website built with HTML5 & CSS",
+        "image": "resume-screenshot.png",
+        "url": "http://muhammad-kausar.epizy.com/airlines.html"
+      },
+      {
+        "title": "Online Store",
+        "category": "Online Store built with HTML5,CSS,BOOTSTRAP & JS",
+        "image": "malaka.png",
+        "url": "https://malakaco.xyz/index.html"
+      },
+      {
+        "title": "Service Website",
+        "category": "Service Website built with Js,HTML5,CSS & Bootstrap",
+        "image": "maknalogo.png",
+        "url": "https://edvertical.github.io/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "It was a great pleasure working with Kausar throughout the project. Great communication, great skills, and great service! I look forward to working with this developer in future projects. Highly recommend to any prospective clients.",
+        "user": "Muhammad Riski"
+      },
+      {
+        "text": "Wow is all i can say! Kausar did an absolute fenominal job from start to finish! He captured and created exactly what I wanted and exceeded my expectation. Highly recommend kausar!",
+        "user": "Syuib"
+      }
+    ]
+  }
+}
